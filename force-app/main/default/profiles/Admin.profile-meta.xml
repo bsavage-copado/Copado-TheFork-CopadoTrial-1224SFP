@@ -8,6 +8,11 @@
         <visible>true</visible>
     </applicationVisibilities>
     <applicationVisibilities>
+        <application>Mystery_Corner</application>
+        <default>false</default>
+        <visible>true</visible>
+    </applicationVisibilities>
+    <applicationVisibilities>
         <application>Service_Cloud_Console</application>
         <default>true</default>
         <visible>true</visible>

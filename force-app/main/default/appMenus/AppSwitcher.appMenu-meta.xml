@@ -64,4 +64,8 @@
         <name>standard__OnlineSales</name>
         <type>CustomApplication</type>
     </appMenuItems>
+    <appMenuItems>
+        <name>Mystery_Corner</name>
+        <type>CustomApplication</type>
+    </appMenuItems>
 </AppMenu>
